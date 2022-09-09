@@ -1,7 +1,7 @@
 ![Alt Text](./img/Team_Profile_Generator.png)
 
 # Description
-* This is a team profile manager, ehre you can manage your team and their information in their profile. 
+* This is a team profile manager, where you can manage your team and their information in their profile. 
 
 # Features
 * Create profiles for teammembers
@@ -13,6 +13,10 @@
 * dist
 * img
 * test
+
+# Usage
+* npm i
+* npm start
 
 # Screenshots
 ![Alt Text](./img/README.md%20-%20team_profile_gen%20-%20Visual%20Studio%20Code%209_9_2022%206_29_12%20PM%20(2).png)
